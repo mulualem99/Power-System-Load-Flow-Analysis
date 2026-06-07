@@ -35,5 +35,5 @@ This project focuses on power flow (load flow) analysis of electrical power syst
 
 ## Author
 Mulualem Ayena
-M.S. Electrical Engineering
-The Catholic University of America
+
+Electrical Engineer | Power Systems | Electrical Design | Embedded Systems
